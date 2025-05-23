@@ -96,7 +96,7 @@ module.exports = {
     ],
   },
   output: {
-    path: resolve(__dirname, 'dist'),
+    path: resolve(__dirname, 'build'),
     filename: 'static/js/[name].[fullhash:8].js',
     chunkFilename: 'static/js/[name].[fullhash:8].chunk.js',
   },
