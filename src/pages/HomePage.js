@@ -2,13 +2,13 @@ import React, { useState } from "react";
 import { css, Global } from '@emotion/react';
 import { Send, CheckCircle, BookOpen, Box, Zap, Users, Award, MessageSquare, Instagram, Twitter, Facebook, Mail, Moon, Sun } from "lucide-react";
 
-import productImage1 from '../assets/products/product-1.png';
-import productImage2 from '../assets/products/product-2.png';
-import productImage3 from '../assets/products/product-3.png';
-import productImage4 from '../assets/products/product-4.png';
-import productImage5 from '../assets/products/product-5.png';
-import productImage6 from '../assets/products/product-6.png';
-import productImage7 from '../assets/products/product-7.png';
+import productImage1 from '../assets/products/product-1.jpg';
+import productImage2 from '../assets/products/product-2.jpg';
+import productImage3 from '../assets/products/product-3.jpg';
+import productImage4 from '../assets/products/product-4.jpg';
+import productImage5 from '../assets/products/product-5.jpg';
+import productImage6 from '../assets/products/product-6.jpg';
+import productImage7 from '../assets/products/product-7.jpg';
 // import productImage2 from '../assets/products/product-2.jpg'; // Henüz eklenmediyse yorumda kalsın
 // import productImage3 from '../assets/products/product-3.jpg'; // Henüz eklenmediyse yorumda kalsın
 

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { css } from '@emotion/react';
-import logoSvg from '../assets/logo.svg';
+import logoJpg from '../assets/logo.jpg';
 
 const headerGlobalStyles = css`
   .container-header {
@@ -204,7 +204,7 @@ const Header = () => {
       <header css={headerStyle}>
         <div className="container-header nav-container">
           <Link to="/" className="nav-branding-link">
-            <img src={logoSvg} alt="Techinfly Logo" className="nav-svg-logo" />
+            <img src={logoJpg} alt="Techinfly Logo" className="nav-svg-logo" />
           </Link>
           
           <div className="nav-desktop-content">
